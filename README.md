@@ -92,5 +92,5 @@ Field of interest:
 - Appliances energy consumption (numeric) (Wh)
 
 ### Data Source ###
-Dataset can be found on [github] (https://github.com/LuisM78/Appliances-energy-prediction-data/blob/master/energydata_complete.csv)
+Dataset can be found on [github](https://github.com/LuisM78/Appliances-energy-prediction-data/blob/master/energydata_complete.csv)
 

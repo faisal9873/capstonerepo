@@ -12,26 +12,26 @@ its resilience and sustainability. This responsibility begins within every house
 of energy consumption habits can collectively exert a significant influence on bolstering the grid's overall resilience 
 and stability. This was the motivation behind leveraging machine learning to understand energy consumption patterns.
 
-##Problem Statement##
+## Problem Statement ##
 
 We lack a comprehensive understanding of how energy is utilized by the appliances in our homes.
 
-##Our Solution##
+## Our Solution ##
 
 Develop predictive models to help us understand the relationship between appliances energy consumption and predictors.
 
-##Objective##
+## Objective ##
 
 The aim of this project is to utilize energy data obtained from household appliances to 
 predict expected energy consumption. This endeavor offers several benefits. 
 
-##Potential Impact##
+## Potential Impact ##
 
 Firstly, homeowners can accurately size photovoltaics and battery energy storage systems based on the predictions to 
 accommodate additional load. Secondly, detecting and addressing unhealthy usage patterns can lead to a reduction in 
 energy expenditure.
 
-##Dataset##
+## Dataset ##
 
 We will be using a real world energy dataset of a [house](https://www.sciencedirect.com/science/article/pii/S0378778816308970?via%3Dihub) 
 containing energy consumed, logged in ten minutes interval for a toal of 137 days. The dataset contains information 
@@ -41,7 +41,7 @@ condition at the time of recording, estimated by using the weather measurments f
 (Chièvres Airport, Belgium), located within 12 km of the house. 
 
 
-##Data Dictionary##
+## Data Dictionary ##
 
 To help us with our analysis, we take some time to study the data dictionary below. 
 

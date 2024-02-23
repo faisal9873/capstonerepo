@@ -1,4 +1,4 @@
-## Energy Consumption Prediction in the Home ##
+# Energy Consumption Prediction in the Home #
 
 ### Introduction ###
 
@@ -41,7 +41,7 @@ condition at the time of recording, estimated by using the weather measurments f
 (Chièvres Airport, Belgium), located within 12 km of the house. 
 
 
-## Data Dictionary ##
+### Data Dictionary ###
 
 To help us with our analysis, we take some time to study the data dictionary below. 
 

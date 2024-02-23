@@ -3,8 +3,7 @@
 ### Introduction ###
 
 This year, at the height of winter and due to extreme cold, the Alberta grid was overstretched, prompting the 
-[Alberta Electric System Operator (AESO)](https://globalnews.ca/news/10231766/alberta-grid-concerns-critical-infrastructure/)  
-to issue calls for people to limit energy use. This urgent appeal came as several power facilities were on the brink of 
+[Alberta Electric System Operator (AESO)](https://globalnews.ca/news/10231766/alberta-grid-concerns-critical-infrastructure/) to issue calls for people to limit energy use. This urgent appeal came as several power facilities were on the brink of 
 collapse, posing a significant risk of rolling blackouts. Additionally, B.C. Hydro experienced surging electricity demand, setting new records.
 Despite the critical infrastructure being managed by the three tiers of government and select public and private sector 
 groups, every individual plays a crucial role as a stakeholder in this industry and should be empowered to contribute to 

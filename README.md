@@ -92,6 +92,16 @@ To help us with our analysis, we take some time to study the data dictionary bel
 Field of interest:
 - Appliances energy consumption (numeric) (Wh)
 
+## Machine Learning Methods Investigated ##
+- Linear regression
+- Gradient boosting method
+- Random forest regressor
+- SVC regressor
+- Neural Network
+- SARIMAX
+
 ### Data Source ###
 Dataset can be found on [github](https://github.com/LuisM78/Appliances-energy-prediction-data/blob/master/energydata_complete.csv)
 
+## Insights and Conclusion ##
+In this project, we have developed a machine learning model for predicting the energy used in the home using weather, date and time features. We started with the ordinary least squares linear regression, achieving sub-par performances. A polynomial fit improved the r2 score but this was not still satifactory. Consequently, we explored the ensemble techniques where the gradient boosting method and the random forest provided the best r2 scores in this project. Even though the training dataset was inadequate, consisting only about 20000 rows, we still manage to achieve a maximum of around 0.5. Similarly, this is the reason the SVC regressor did not match up to the ensemble performances. SARIMAX performed poorly because the dataset was only for 5-months rather than years, making it impossible to detect trend or seasonality. In general, the aaccuracy of the ML model can be improved by utilizing more data.

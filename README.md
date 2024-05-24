@@ -18,7 +18,7 @@ We lack a comprehensive understanding of how energy is utilized by the appliance
 ## Our Solution ##
 
 Develop predictive models to help us understand the relationship between appliances energy consumption and predictors,
-making us our own B.C. Hydro.
+making us our own Hydro.
 
 ## Objective ##
 
